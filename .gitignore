@@ -1,0 +1,8 @@
+_pycache_/
+*.py[cod]
+*$py.class
+
+*.log
+local_settings.py
+db.sqlite3-journal
+db.sqlite3
