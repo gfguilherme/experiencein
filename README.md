@@ -35,10 +35,10 @@ O deploy do sistema foi efetuado atráves do serviço de hospedagem web [PythonA
 
 ```bash
 # Clone este repositório
-$ git clone <git@github.com:Prof-Fabio-Henrique/avaliacao-individual-n2-2021-2-gfguilherme.git>
+$ git clone https://github.com/gfguilherme/experiencein.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd avaliacao-individual-n2-2021-2-gfguilherme
+$ cd experiencein
 
 # Inicie o servidor da aplicação
 $ python manage.py runserver
